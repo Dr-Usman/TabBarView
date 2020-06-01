@@ -9,7 +9,7 @@ A Flutter application of Rounded Corner with Gradient tab style.
 
 ![20200520_130402](https://user-images.githubusercontent.com/48102385/82422665-2c7a2700-9a9c-11ea-8f06-9bfec9fd89dc.gif)
 
-![Screenshot_1589960696](https://user-images.githubusercontent.com/48102385/82423186-e5406600-9a9c-11ea-835f-4d59d97429fd.png)![Screenshot_1589961034](https://user-images.githubusercontent.com/48102385/82423191-e5d8fc80-9a9c-11ea-99e7-d299b929435e.png)
+![Screenshot_1589960696](https://user-images.githubusercontent.com/48102385/82423186-e5406600-9a9c-11ea-835f-4d59d97429fd.png)  ![Screenshot_1589961034](https://user-images.githubusercontent.com/48102385/82423191-e5d8fc80-9a9c-11ea-99e7-d299b929435e.png)
 
 
 
